@@ -21,14 +21,3 @@ The hosted nodes are on a fully-redundant and independent platform. They’re on
 Virtual machine’s live migration, operating system live patches, and autostart. These are some elements used to guarantee that ADALV (CARDANIONS) Pool’s servers are running smoothly.
 
 
-Header 3
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-
