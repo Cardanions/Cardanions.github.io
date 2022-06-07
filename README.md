@@ -3,19 +3,22 @@
 # ADA Staking – ADALV Pool (CARDANIONS)
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
+end
 
 We’ve got real-time monitoring to view stakes and check on their status. For the best ADA pool & Cardano pool, start staking with LEARN Pool today.
 
 # Our Services
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
-  
+end
+
 We run Cardano pools and ADA pools for staking Cardano. These pools are fully redundant, AWS-backed, and set in multiple data centers globally. Our pools are consistently at the top in consistency and returns. With ADALV Pool, you won’t find anything better than us.
 
 
 # Reasons to Stake with ADALV Pool (CARDANIONS)
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
+end
 
 Increased Pledge
 (X amount) ADA as a starting pledge that grows over time, displaying compelling financial commitments. This guarantees a stable and trustworthy ADA pool and Cardano pool for maximum rewards.
